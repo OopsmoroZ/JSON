@@ -1,6 +1,6 @@
 {
-	favorite_movie: TRON_Legacy,
-	favorite_TV_series: POWER,
-	favorite_time_of_the_year: Summer,
-	A_desirable_country_to_visit: Italy
+	"favorite movie": "TRON:Legacy",
+	"favorite TV series": "POWER",
+	"favorite time of the year": "Summer",
+	"A desirable country to visit": "Italy"
 }
