@@ -1,6 +1,6 @@
 {
-	person_name: Morozov_Alexey_Nikolaevich,
-	person_age: 22,
-	Animal: 1,
-	Salary: 1000
+	"person_name":"Morozov Alexey Nikolaevich",
+	"person_age": 22,
+	"animal": 1,
+	"salary": 1000
 }
