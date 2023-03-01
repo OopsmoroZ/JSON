@@ -1,6 +1,11 @@
 {
-	"person_name":"Morozov Alexey Nikolaevich",
-	"person_age": 22,
-	"animal": 1,
-	"salary": 1000
+	"Last name":"Morozov",
+	"First name":"Alexey",
+	"Middle name":"Nikolaevich",
+	"Age": 22,
+	"Type of pet":{
+		"Name":"Diego"
+		"Age": 1
+	}
+	"Future_salary": "1000 USD",
 }
